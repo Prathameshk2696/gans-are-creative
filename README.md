@@ -13,8 +13,8 @@ Implementations of Generative Adversarial Networks for the following application
     </tr>
     <tr>
       <td>MLP-GAN</td>
-      <td><img src = ""></img></td>
-      <td><img src = ""></img></td>
+      <td><img style = "width:300px" src = "https://github.com/Prathameshk2696/gans-are-creative/blob/main/fashion_product_generation/training_gifs/mlp_gan.gif"></img></td>
+      <td><img style = "width:300px" src = "https://github.com/Prathameshk2696/gans-are-creative/blob/main/fashion_product_generation/generated_images/mlp_gan.png"></img></td>
     </tr>
     <tr>
       <td>DC-GAN</td>
